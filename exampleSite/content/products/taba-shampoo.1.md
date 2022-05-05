@@ -2,7 +2,7 @@
 title: Taba Shampoo
 date: 2019-10-17T11:22:16.000+06:00
 description: For Silky Hair
-price: "0"
+price: "1"
 priceBefore: ''
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut
